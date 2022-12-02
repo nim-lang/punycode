@@ -7,6 +7,8 @@
 #    distribution, for details about the copyright.
 #
 
+## .. note:: In order to use this module, run `nimble install punycode`.
+##
 ## Implements a representation of Unicode with the limited
 ## ASCII character subset.
 
